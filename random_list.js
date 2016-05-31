@@ -1,8 +1,3 @@
-<script type="text/javascript" src="sujeto.js"></script>
-<script type="text/javascript" src="adjetivo.js"></script>
-<script type="text/javascript" src="verbo.js"></script>
-<script type="text/javascript" src="complemento.js"></script>
-
 var count = 100;
 function show() {
     random_sujeto = sujeto[(Math.floor(Math.random()*100))%sujeto.length]

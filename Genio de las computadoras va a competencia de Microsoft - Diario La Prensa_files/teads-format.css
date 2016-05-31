@@ -1,0 +1,128 @@
+.teads-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.teads-inflow {
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  position: fixed;
+  zindex: 2147483647 !important;
+  zoom: 1;
+  transition: opacity .5s;
+  background: url(data:image/png;base64;iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAEhJREFUeNrszzERACAMALEH/25qEBcMvcRBTjUtcFtCRERERERERERERERERERERERERERERERERERERERERERERERE5I8nwABEjQEXuO95jAAAAABJRU5ErkJggg%3D%3D);
+  background: -webkit-radial-gradient(center, ellipse cover, rgba(127, 127, 127, 0.5) 35%, rgba(0, 0, 0, 0.7) 100%);
+  background: -moz-radial-gradient(center, ellipse cover, rgba(127, 127, 127, 0.5) 35%, rgba(0, 0, 0, 0.7) 100%);
+  background: -ms-radial-gradient(center, ellipse cover, rgba(127, 127, 127, 0.5) 35%, rgba(0, 0, 0, 0.7) 100%);
+  background: -o-radial-gradient(center, ellipse cover, rgba(127, 127, 127, 0.5) 35%, rgba(0, 0, 0, 0.7) 100%);
+  background: radial-gradient(ellipse at center, rgba(127, 127, 127, 0.5) 35%, rgba(0, 0, 0, 0.7) 100%);
+  -webkit-transform: scale(1);
+  /*
+  .overlay-click {
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    position: fixed;
+    cursor: pointer;
+  }
+
+  .wrapper {
+    background-color: #FFF;
+    box-shadow: 0 5px 80px #505050;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 2147483647;
+    top: -50%;
+    left: 0;
+  }
+
+  .wrapper-position {
+    position: absolute;
+    width: @playerWidth;
+    margin-left: -@playerWidth / 2;
+    transition: width .5s;
+    left: 50%;
+    top: 50%;
+
+    @media screen and (max-width: @playerWidth) {
+      width: 95%;
+      margin-left: 2%;
+      left: 0;
+    }
+  }
+
+  .wrapper-image {
+    min-width: 100%;
+    height: auto;
+    position: relative;
+    margin-top: -4px;
+  }
+*/
+}
+.teads-inflow .teads-player {
+  position: absolute;
+  width: 840px;
+  margin-left: -420px;
+  left: 50%;
+  top: 50%;
+}
+@media screen and (max-width: 840px) {
+  .teads-inflow .teads-player {
+    width: 95%;
+    margin-left: 2%;
+    left: 0;
+  }
+}
+/*
+.teads-maxbrand {
+  .wrapper-position {
+    width: 80%;
+    margin-left: 10%;
+    left: 0;
+  }
+}
+*/
+
+.teads-inread,
+.teads-inboard {
+  overflow: hidden;
+  height: 0;
+  -webkit-transition: height .5s;
+  -moz-transition: height .5s;
+  -o-transition: height .5s;
+  -ms-transition: height .5s;
+  transition: height .5s;
+  box-sizing: content-box;
+}
+.teads-inread.no-transition,
+.teads-inboard.no-transition {
+  -webkit-transition: none;
+  -moz-transition: none;
+  -o-transition: none;
+  -ms-transition: none;
+  transition: none;
+}
+.teads-inread div,
+.teads-inboard div {
+  margin-bottom: 0px !important;
+}
+div.teads-inread div::before,
+div.teads-inboard div::before,
+div.teads-impact div::before,
+div.teads-inread div::after,
+div.teads-inboard div::after,
+div.teads-impact div::after {
+  display: none !important;
+}
