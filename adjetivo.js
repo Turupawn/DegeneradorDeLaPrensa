@@ -1,0 +1,4 @@
+adjetivo = [
+"genio",
+"hacker",
+"jaker"];
