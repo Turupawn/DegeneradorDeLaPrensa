@@ -4,5 +4,5 @@ complemento = [
 "idea millonaria",
 "el éxito",
 "la cura del cancer",
-"Silicon Valley de Centroamérica",
+"Silicon Valley de Latinoamérica",
 "solución al hambre para los países del tercer mundo"];
