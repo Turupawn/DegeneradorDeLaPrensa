@@ -1,6 +1,6 @@
 adjetivo = [
 "genio",
 "hacker",
-"innovador",
+"de Ojojona",
 "genio de la computacion",
 "jaker"];
