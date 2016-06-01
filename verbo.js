@@ -2,7 +2,7 @@ verbo = [
 "crea",
 "inventa",
 "reinventa",
-"compra",
+"obtiene",
 "revoluciona",
 "desarrolla",
 "innova",
