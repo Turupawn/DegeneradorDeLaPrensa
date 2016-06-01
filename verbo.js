@@ -3,6 +3,6 @@ verbo = [
 "inventa",
 "reinventa",
 "compra",
-"revoluciona"
+"revoluciona",
 "desarrolla",
 "logra"];
