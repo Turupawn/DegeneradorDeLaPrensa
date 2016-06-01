@@ -4,4 +4,4 @@ verbo = [
 "reinventa",
 "compra",
 "revoluciona",
-"obtiene"];
+"logra"];
