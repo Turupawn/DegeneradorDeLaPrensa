@@ -8,4 +8,5 @@ adjetivo = [
 "estudiante de excelencia académica",
 "promesa de Honduras",
 "master en radimparencia",
+"entrepreneur"
 "jaker"];
