@@ -5,6 +5,7 @@ verbo = [
 "obtiene",
 "revoluciona",
 "desarrolla",
+"reimagina",
 "innova",
 "se consagra por",
 "disrupciona el mercado de",
