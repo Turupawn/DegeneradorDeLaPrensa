@@ -6,5 +6,5 @@ verbo = [
 "revoluciona",
 "desarrolla",
 "innova",
-"se consagra el",
+"se consagra por",
 "logra"];
