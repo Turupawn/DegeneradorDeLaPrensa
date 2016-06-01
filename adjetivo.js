@@ -9,4 +9,4 @@ adjetivo = [
 "promesa de Honduras",
 "master en radimparencia",
 "entrepreneur",
-"jaker"];
+"gigante de el análisis científico"];
