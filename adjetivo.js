@@ -6,5 +6,5 @@ adjetivo = [
 "genio de la robótica",
 "grande de la tecnología en Centroamérica",
 "de la ciencia",
-"promesa de Honduras"
+"promesa de Honduras",
 "jaker"];
