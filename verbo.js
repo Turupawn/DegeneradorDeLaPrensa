@@ -7,5 +7,5 @@ verbo = [
 "desarrolla",
 "innova",
 "se consagra por",
-"disrupciona",
+"disrupciona el mercado de",
 "logra"];
