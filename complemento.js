@@ -4,4 +4,4 @@ complemento = [
 "idea millonaria",
 "el éxito",
 "la cura del cancer",
-"solución al hambre en los países pobres"];
+"solución al hambre para los países del tercer mundo"];
