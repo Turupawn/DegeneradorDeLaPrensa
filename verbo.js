@@ -5,4 +5,5 @@ verbo = [
 "compra",
 "revoluciona",
 "desarrolla",
+"innova",
 "logra"];
