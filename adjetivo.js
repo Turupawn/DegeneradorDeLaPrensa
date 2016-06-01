@@ -7,4 +7,5 @@ adjetivo = [
 "grande de la tecnología en Centroamérica",
 "estudiante de excelencia académica",
 "promesa de Honduras",
+"master en radimparencia",
 "jaker"];
