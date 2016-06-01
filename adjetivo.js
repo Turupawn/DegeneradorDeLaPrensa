@@ -5,5 +5,5 @@ adjetivo = [
 "genio de la computacion",
 "genio de la robótica",
 "grande de la tecnología en Centroamérica",
-"científico"
+"científico",
 "jaker"];
