@@ -6,4 +6,5 @@ sujeto = [
 "Estudiante",
 "Desempleado",
 "Palillona",
+"Pepenadora",
 "Abuelo"];
