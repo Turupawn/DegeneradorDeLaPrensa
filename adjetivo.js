@@ -9,4 +9,6 @@ adjetivo = [
 "promesa de Honduras",
 "master en radimparencia",
 "entrepreneur",
+"gurú de la informática",
+"mago de las finanzas",
 "gigante de el análisis científico"];
