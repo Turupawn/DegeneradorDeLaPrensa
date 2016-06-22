@@ -2,5 +2,5 @@ sujeto = [
 "Niño",
 "Estudiante",
 "Desempleado",
-"Joven"
+"Joven",
 "Abuelo"];
