@@ -1,5 +1,6 @@
 sujeto = [
-"Nino",
+"Niño",
 "Estudiante",
 "Desempleado",
+"Joven"
 "Abuelo"];
