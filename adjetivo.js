@@ -2,6 +2,7 @@ adjetivo = [
 "genio",
 "hacker",
 "de Ojojona",
+"en riesgo social",
 "genio de la computacion",
 "genio de la robótica",
 "grande de la tecnología en Centroamérica",
