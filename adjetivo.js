@@ -1,5 +1,5 @@
 adjetivo = [
 "genio",
-"hacker"
+"hacker",
 "en riesgo social",
 "jaker"];
