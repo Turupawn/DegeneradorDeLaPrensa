@@ -5,6 +5,7 @@ adjetivo = [
 "de UNAH-VS",
 "de Ojojona",
 "irreverente",
+"del gremio transportista",
 "en el extranjero",
 "en condiciones adversas",
 "en menosprecio",
