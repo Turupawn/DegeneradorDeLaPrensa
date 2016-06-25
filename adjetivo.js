@@ -5,6 +5,7 @@ adjetivo = [
 "de Ojojona",
 "irreverente",
 "del IHSS",
+"del siglo XXI",
 "de aldea marginal",
 "en riesgo social",
 "asesor de reconocida trayectoria",
