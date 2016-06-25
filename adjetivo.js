@@ -4,6 +4,7 @@ adjetivo = [
 "de Ojojona",
 "en riesgo social",
 "asesor de reconocida trayectoria",
+"autodidacta",
 "genio de la computacion",
 "genio de la robótica",
 "grande de la tecnología en Centroamérica",
