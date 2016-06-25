@@ -5,6 +5,7 @@ verbo = [
 "a la caza de",
 "cuestiona la forma de",
 "patenta",
+"logra protección al",
 "obtiene",
 "pone en alto",
 "superó",
