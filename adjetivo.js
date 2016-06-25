@@ -34,4 +34,5 @@ adjetivo = [
 "entrepreneur",
 "gurú de la informática",
 "mago de las finanzas",
+"del interior",
 "gigante de el análisis científico"];
