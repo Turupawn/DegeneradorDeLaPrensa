@@ -1,5 +1,6 @@
 adjetivo = [
 "genio",
+"radical",
 "hacker",
 "de UNAH-VS",
 "de Ojojona",
