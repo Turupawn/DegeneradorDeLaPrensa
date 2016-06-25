@@ -2,6 +2,7 @@ complemento = [
 "el mundo",
 "el nuevo Facebook",
 "idea millonaria",
+"medios de comunicación masiva de Siria"
 "el éxito",
 "la cura del cancer",
 "Silicon Valley de Latinoamérica",
