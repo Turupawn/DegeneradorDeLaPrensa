@@ -1,5 +1,6 @@
 verbo = [
 "crea",
+"no le vé el fin a",
 "inventa",
 "reinventa",
 "a la caza de",
