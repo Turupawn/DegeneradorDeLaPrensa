@@ -18,7 +18,7 @@ adjetivo = [
 "sagaz",
 "perspicaz",
 "audaz",
-"excepcional"
+"excepcional",
 "imbuído de astucia",
 "de fama en los barrios bajos",
 "de bajos recursos económicos",
