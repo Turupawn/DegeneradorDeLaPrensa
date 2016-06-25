@@ -7,7 +7,7 @@ sujeto = [
 "Desempleado",
 "Intengrante del gremio transportista",
 "Docente",
-"Habitante",
+"Bachiller",
 "Hondureño en el extranjero",
 "Empresario",
 "Ciudadanía",
