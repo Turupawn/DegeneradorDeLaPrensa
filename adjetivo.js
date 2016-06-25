@@ -4,6 +4,7 @@ adjetivo = [
 "de UNAH-VS",
 "de Ojojona",
 "irreverente",
+"Einstein",
 "del IHSS",
 "del siglo XXI",
 "de aldea marginal",
