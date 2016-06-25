@@ -9,7 +9,8 @@ complemento = [
 "foros internacionales de convergencia",
 "escuela de potenciación de habilidades para las zonas rurales",
 "picante método de crear dinero",
-"startup del futuro hoy",
+"startup del mañana, hoy",
 "polémica tecnología",
 "futuro brillante en el presente",
+"antiguo remedio contra la diabetes",
 "solución al hambre para los países del tercer mundo"];
