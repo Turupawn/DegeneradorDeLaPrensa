@@ -8,7 +8,7 @@ sujeto = [
 "Intengrante del gremio transportista",
 "Docente",
 "Bachiller",
-"Hondureño en el extranjero",
+"Hondureño",
 "Empresario",
 "Ciudadanía",
 "Palillona",
