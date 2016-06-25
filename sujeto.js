@@ -1,7 +1,7 @@
 sujeto = [
 "Niño",
 "Niña",
-"Nuestro latino",
+"Nuestro latino residente",
 "Latina",
 "Pequeña",
 "Pequeño",
