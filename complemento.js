@@ -3,6 +3,7 @@ complemento = [
 "el nuevo Facebook",
 "idea millonaria",
 "marca de Instagram",
+"máquina que desimprime el toner de las hojas de papel",
 "planta nuclear",
 "lanzadera espacial en suelo patrio",
 "algoritmo de búsqueda Google",
