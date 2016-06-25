@@ -8,7 +8,6 @@ adjetivo = [
 "en menosprecio",
 "Einstein",
 "Einstein de los negocios",
-"del IHSS",
 "del siglo XXI",
 "de aldea marginal",
 "en riesgo social",
