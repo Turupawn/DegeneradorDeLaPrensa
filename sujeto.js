@@ -5,7 +5,7 @@ sujeto = [
 "Pequeño",
 "Estudiante",
 "Desempleado",
-"Gremio",
+"Intengrante del gremio transportista",
 "Habitante",
 "Ciudadanía",
 "Palillona",
