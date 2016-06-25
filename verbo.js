@@ -3,6 +3,7 @@ verbo = [
 "inventa",
 "reinventa",
 "a la caza de",
+"cuestiona la forma de",
 "patenta",
 "obtiene",
 "revoluciona",
