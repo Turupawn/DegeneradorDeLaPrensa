@@ -5,7 +5,7 @@ verbo = [
 "obtiene",
 "revoluciona",
 "desarrolla",
-"arremete",
+"arremete contra",
 "explotó",
 "desmiente",
 "propone",
