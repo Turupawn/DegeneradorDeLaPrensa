@@ -4,6 +4,8 @@ verbo = [
 "reinventa",
 "obtiene",
 "revoluciona",
+"tiene en la mira",
+"diserta",
 "expande conocimientos a",
 "desarrolla",
 "arremete contra",
