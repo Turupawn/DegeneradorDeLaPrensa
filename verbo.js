@@ -4,6 +4,7 @@ verbo = [
 "reinventa",
 "a la caza de",
 "cuestiona la forma de",
+"es agente transformador para,"
 "patenta",
 "está modernizando",
 "inicia importante enlace con",
