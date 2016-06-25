@@ -3,7 +3,6 @@ adjetivo = [
 "teme que",
 "que",
 "grafiterista",
-"mortal virus del Zika",
 "radical",
 "hacker",
 "de UNAH-VS",
