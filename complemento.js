@@ -10,6 +10,6 @@ complemento = [
 "escuela de potenciación de habilidades para las zonas rurales",
 "picante método de crear dinero",
 "startup del futuro hoy",
-"despampanante tecnología",
+"polémica tecnología",
 "futuro brillante en el presente",
 "solución al hambre para los países del tercer mundo"];
