@@ -9,6 +9,7 @@ sujeto = [
 "Docente",
 "Habitante",
 "Hondureño en el extranjero",
+"Empresario",
 "Ciudadanía",
 "Palillona",
 "Comerciante",
