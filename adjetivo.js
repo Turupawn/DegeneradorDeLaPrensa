@@ -5,6 +5,7 @@ adjetivo = [
 "de Ojojona",
 "irreverente",
 "Einstein",
+"Einstein de los negocios",
 "del IHSS",
 "del siglo XXI",
 "de aldea marginal",
