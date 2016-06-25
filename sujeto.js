@@ -3,6 +3,7 @@ sujeto = [
 "Niña",
 "Pequeña",
 "Pequeño",
+" ",
 "Este Estudiante",
 "Desempleado",
 "La comunidad",
