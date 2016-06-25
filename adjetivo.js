@@ -4,6 +4,8 @@ adjetivo = [
 "radical",
 "hacker",
 "de UNAH-VS",
+"de minorías",
+"dentro de comunidad latina",
 "de Ojojona",
 "irreverente",
 "del gremio transportista",
