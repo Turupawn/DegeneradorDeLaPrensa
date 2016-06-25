@@ -1,5 +1,6 @@
 adjetivo = [
 "genio",
+"que".
 "grafiterista",
 "radical",
 "hacker",
