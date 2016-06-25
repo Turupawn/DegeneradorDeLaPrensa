@@ -2,6 +2,7 @@ verbo = [
 "crea",
 "inventa",
 "reinventa",
+"a la caza de",
 "patenta",
 "obtiene",
 "revoluciona",
