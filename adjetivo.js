@@ -1,5 +1,6 @@
 adjetivo = [
 "genio",
+"grafitero",
 "radical",
 "hacker",
 "de UNAH-VS",
