@@ -4,7 +4,7 @@ sujeto = [
 "Pequeña",
 "Pequeño",
 " ",
-"Este Estudiante",
+"Este estudiante",
 "Desempleado",
 "La comunidad",
 "Docente",
