@@ -1,8 +1,11 @@
 complemento = [
 "el mundo",
 "el nuevo Facebook",
+"avance descomunal para la ciencia moderna",
 "sueño de realidad virtual",
 "idea millonaria",
+"computadoras cuánticas",
+"teorema del gato de Schroedinger",
 "reforma a los sistemas de gobierno",
 "marca de Instagram",
 "máquina que desimprime el toner de las hojas de papel",
