@@ -7,7 +7,7 @@ verbo = [
 "revoluciona",
 "descubre con bombo y platillos",
 "tiene en la mira",
-"atemoriza sector",
+"atemoriza",
 "diserta como los grandes",
 "expande conocimientos a",
 "desarrolla",
