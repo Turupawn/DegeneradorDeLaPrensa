@@ -13,6 +13,7 @@ adjetivo = [
 "tremenda",
 "experto",
 "candente",
+"de lujo",
 "picante",
 "sagaz",
 "perspicaz",
