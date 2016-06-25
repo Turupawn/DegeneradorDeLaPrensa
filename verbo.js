@@ -8,7 +8,7 @@ verbo = [
 "descubre con bombo y platillos",
 "tiene en la mira",
 "atemoriza sector",
-"diserta",
+"diserta como los grandes",
 "expande conocimientos a",
 "desarrolla",
 "arremete contra",
