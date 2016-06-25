@@ -6,6 +6,7 @@ verbo = [
 "cuestiona la forma de",
 "patenta",
 "obtiene",
+"superó",
 "revoluciona",
 "descubre con bombo y platillos",
 "tiene en la mira",
