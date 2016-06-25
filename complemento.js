@@ -13,7 +13,7 @@ complemento = [
 "máquina de educación para los más desfavorecidos",
 "tecnología 3D para crear prótesis en universidad estadounidense",
 "foros internacionales de convergencia",
-"escuela de potenciación de habilidades para las zonas rurales",
+"escuela de potenciación agrícola para zonas rurales",
 "picante método de crear dinero",
 "startup del mañana, hoy",
 "polémica tecnología",
