@@ -5,6 +5,7 @@ adjetivo = [
 "de UNAH-VS",
 "de Ojojona",
 "irreverente",
+"en el extranjero",
 "en condiciones adversas",
 "en menosprecio",
 "Einstein",
