@@ -6,6 +6,7 @@ verbo = [
 "revoluciona",
 "desarrolla",
 "arremete contra",
+"filtra información de",
 "explotó",
 "desmiente",
 "propone",
@@ -15,5 +16,5 @@ verbo = [
 "disrupciona el mercado de",
 "masacró",
 "le pone sabor latino",
-"hace histórica hazaña en",
+"lleva a cabo histórica hazaña en",
 "logra"];
