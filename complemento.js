@@ -4,7 +4,7 @@ complemento = [
 "idea millonaria",
 "marca de Instagram",
 "algoritmo de búsqueda Google",
-"Microsoft de Gracias a Dios"
+"Microsoft del Caribe",
 "medios de comunicación masiva de Siria",
 "el éxito",
 "historia de el indio Lempira",
