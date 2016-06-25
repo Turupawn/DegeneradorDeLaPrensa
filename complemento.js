@@ -6,6 +6,7 @@ complemento = [
 "la cura del cancer",
 "Silicon Valley de Latinoamérica",
 "máquina de educación para los más desfavorecidos",
+"foros internacionales de convergencia",
 "escuela de potenciación de habilidades para las zonas rurales",
 "picante método de crear dinero",
 "startup del futuro hoy",
