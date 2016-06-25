@@ -1,5 +1,5 @@
 complemento = [
-" ",
+"la vida",
 "el mundo",
 "eslabón perdido",
 "prevención de pandemia",
