@@ -12,7 +12,6 @@ adjetivo = [
 "espectacular",
 "tremenda",
 "experto",
-"desgarradoras",
 "candente",
 "picante",
 "de bajos recursos económicos",
