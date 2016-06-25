@@ -33,7 +33,7 @@ complemento = [
 "startup del mañana, hoy",
 "polémica tecnología",
 "hilarante trastorno compulsivo",
-"cosplayers",
+"cosplay",
 "empresas emergentes",
 "nueva bolsa de valores",
 "tradiciones autóctonas de Honduras",
