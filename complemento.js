@@ -5,6 +5,7 @@ complemento = [
 "sueño de realidad virtual",
 "idea millonaria",
 "computadoras cuánticas",
+"filosfía del libre mercado",
 "teorema del gato de Schroedinger",
 "reforma a los sistemas de gobierno",
 "marca de Instagram",
