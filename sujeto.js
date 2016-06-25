@@ -5,6 +5,7 @@ sujeto = [
 "Pequeño",
 " ",
 "Este estudiante",
+"Desde",
 "Desempleado",
 "La comunidad",
 "Docente",
