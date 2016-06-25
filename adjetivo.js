@@ -1,6 +1,6 @@
 adjetivo = [
 "genio",
-"que".
+"que",
 "grafiterista",
 "radical",
 "hacker",
@@ -25,7 +25,6 @@ adjetivo = [
 "grande de la tecnología en Centroamérica",
 "de excelencia académica",
 "promesa de Honduras",
-"imperdible",
 "espectacular",
 "de habilidad inigualable",
 "experto",
