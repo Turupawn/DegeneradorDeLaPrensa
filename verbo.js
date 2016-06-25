@@ -13,4 +13,7 @@ verbo = [
 "innova",
 "se consagra por",
 "disrupciona el mercado de",
+"masacró",
+"le pone sabor latino",
+"hace histórica hazaña en",
 "logra"];
