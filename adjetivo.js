@@ -15,6 +15,8 @@ adjetivo = [
 "desgarradoras",
 "candente",
 "picante",
+"de bajos recursos económicos",
+"despampanante",
 "master en radimparencia",
 "entrepreneur",
 "gurú de la informática",
