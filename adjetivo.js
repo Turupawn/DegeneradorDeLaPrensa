@@ -6,7 +6,7 @@ adjetivo = [
 "genio de la computacion",
 "genio de la robótica",
 "grande de la tecnología en Centroamérica",
-"estudiante de excelencia académica",
+"de excelencia académica",
 "promesa de Honduras",
 "imperdible",
 "espectacular",
