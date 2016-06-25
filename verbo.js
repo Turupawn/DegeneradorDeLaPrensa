@@ -4,6 +4,7 @@ verbo = [
 "reinventa",
 "obtiene",
 "revoluciona",
+"descubre con bombo y platillos",
 "tiene en la mira",
 "diserta",
 "expande conocimientos a",
