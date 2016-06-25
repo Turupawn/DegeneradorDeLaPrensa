@@ -5,7 +5,7 @@ adjetivo = [
 "de UNAH-VS",
 "de Ojojona",
 "irreverente",
-"de primaria",
+"en condiciones adversas",
 "en menosprecio",
 "Einstein",
 "Einstein de los negocios",
