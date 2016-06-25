@@ -8,6 +8,7 @@ complemento = [
 "la cura del cancer",
 "la grecia de región hispánica",
 "seguridad en productividad de sectores peligrosos del interior",
+"cumbre de comercio internacional",
 "solución para ayuda de invidentes",
 "Silicon Valley de Latinoamérica",
 "máquina de educación para los más desfavorecidos",
