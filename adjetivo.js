@@ -1,6 +1,7 @@
 adjetivo = [
 "genio",
 "hacker",
+"de UNAH-VS",
 "de Ojojona",
 "en riesgo social",
 "asesor de reconocida trayectoria",
