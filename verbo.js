@@ -6,7 +6,7 @@ verbo = [
 "cuestiona la forma de",
 "patenta",
 "está modernizando",
-"logra protección al",
+"inicia importante enlace con",
 "obtiene",
 "pone en alto",
 "superó",
