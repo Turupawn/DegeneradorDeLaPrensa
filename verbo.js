@@ -2,6 +2,7 @@ verbo = [
 "crea",
 "inventa",
 "reinventa",
+"patenta",
 "obtiene",
 "revoluciona",
 "descubre con bombo y platillos",
