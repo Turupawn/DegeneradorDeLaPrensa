@@ -4,6 +4,7 @@ adjetivo = [
 "de UNAH-VS",
 "de Ojojona",
 "irreverente",
+"en menosprecio",
 "Einstein",
 "Einstein de los negocios",
 "del IHSS",
