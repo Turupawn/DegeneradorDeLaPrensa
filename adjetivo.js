@@ -1,5 +1,6 @@
 adjetivo = [
 "genio",
+"teme por",
 "que",
 "grafiterista",
 "radical",
