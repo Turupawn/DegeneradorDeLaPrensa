@@ -4,6 +4,7 @@ verbo = [
 "reinventa",
 "obtiene",
 "revoluciona",
+"expande conocimientos a",
 "desarrolla",
 "arremete contra",
 "filtra información de",
