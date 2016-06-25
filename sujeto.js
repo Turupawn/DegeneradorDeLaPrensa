@@ -6,6 +6,7 @@ sujeto = [
 "Estudiante",
 "Desempleado",
 "Intengrante del gremio transportista",
+"Destacado del magisterio",
 "Habitante",
 "Ciudadanía",
 "Palillona",
