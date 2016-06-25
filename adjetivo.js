@@ -3,6 +3,7 @@ adjetivo = [
 "hacker",
 "de UNAH-VS",
 "de Ojojona",
+"de aldea marginal",
 "en riesgo social",
 "asesor de reconocida trayectoria",
 "autodidacta",
