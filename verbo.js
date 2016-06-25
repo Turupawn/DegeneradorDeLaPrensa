@@ -15,6 +15,6 @@ verbo = [
 "se consagra por",
 "disrupciona el mercado de",
 "masacró",
-"le pone sabor latino",
+"le pone sabor latino a",
 "lleva a cabo histórica hazaña en",
 "logra"];
