@@ -11,7 +11,6 @@ sujeto = [
 "Ciudadanía",
 "Palillona",
 "Comerciante",
-"Nuevo",
 "Normalista",
 "Empleado",
 "Pepenadora",
