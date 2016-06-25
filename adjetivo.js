@@ -22,7 +22,7 @@ adjetivo = [
 "perspicaz",
 "audaz",
 "excepcional",
-"imbuído de astucia",
+"desbordante de astucia",
 "de fama en los barrios bajos",
 "de bajos recursos económicos",
 "master en radimparencia",
