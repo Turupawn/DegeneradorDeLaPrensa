@@ -12,5 +12,7 @@ complemento = [
 "startup del mañana, hoy",
 "polémica tecnología",
 "futuro brillante en el presente",
+"nueva bolsa de valores",
+"tradiciones autóctonas de Honduras",
 "antiguo remedio contra la diabetes",
 "solución al hambre para los países del tercer mundo"];
