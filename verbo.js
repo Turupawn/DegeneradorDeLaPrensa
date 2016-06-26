@@ -1,5 +1,6 @@
 verbo = [
 "crea",
+"con pasión por las computadoras",
 "no le vé el fin a",
 "inventa",
 "reinventa",
