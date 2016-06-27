@@ -40,6 +40,7 @@ adjetivo = [
 "de bajos recursos económicos",
 "master en radimparencia",
 "entrepreneur",
+"emprendedor",
 "gurú de la informática",
 "mago de las finanzas",
 "del interior",
