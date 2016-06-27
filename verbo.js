@@ -1,5 +1,6 @@
 verbo = [
 "crea",
+"pone en auge",
 "con pasión por las computadoras",
 "rebasa los límites del",
 "no le vé el fin a",
