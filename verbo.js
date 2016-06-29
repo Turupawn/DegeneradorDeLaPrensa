@@ -4,6 +4,7 @@ verbo = [
 "con pasión por las computadoras",
 "rebasa los límites del",
 "no le vé el fin a",
+"promueven",
 "inventa",
 "reinventa",
 "a la caza de",
