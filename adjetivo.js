@@ -1,6 +1,7 @@
 adjetivo = [
 "genio",
 "teme que",
+"sampedrano",
 "que",
 "grafiterista",
 "radical",
